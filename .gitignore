@@ -1,3 +1,5 @@
 #Ipython Notebook
 .ipynb_checkpoints
-.html
+
+# slides
+*.html
